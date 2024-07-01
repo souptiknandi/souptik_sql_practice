@@ -1,5 +1,2 @@
-select * from employee2;
+select * from employee;
 DEV1
-DEV2
-DEV3
-
